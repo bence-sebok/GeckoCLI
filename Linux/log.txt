@@ -1,0 +1,42 @@
+2018-05-22 11:04:06: PEP hazi feladat FreeRTOS - CLI
+2018-05-22 11:04:06: Seres Zsofia, Sebok Bence
+2018-05-22 11:04:06: List of commands:
+2018-05-22 11:04:06: COMMANDS: listing available commands.
+2018-05-22 11:04:06: HELP: listing available commands.
+2018-05-22 11:04:06: SETLED0: setting LED0
+2018-05-22 11:04:06: SETLED1: setting LED1
+2018-05-22 11:04:06: SETLEDS: setting LED0 and LED1
+2018-05-22 11:04:06: GETLED0: getting the value of LED0
+2018-05-22 11:04:06: GETLED1: getting the value of LED1
+2018-05-22 11:04:06: CLEARLED0: clearing LED0
+2018-05-22 11:04:06: CLEARLED1: clearing LED1
+2018-05-22 11:04:06: CLEARLEDS: clearing all the LEDS
+2018-05-22 11:04:06: TEXT <scrolling text: scrolling <scrolling text on LCD every seconds
+2018-05-22 11:04:08: GPIO ODD IRQ handler: PB9
+2018-05-22 11:04:08: PB0 pressed: 1
+2018-05-22 11:04:09: GPIO EVEN IRQ handler: PB10
+2018-05-22 11:04:09: PB1 pressed: 1
+2018-05-22 11:04:14: SETLEDS
+2018-05-22 11:04:18: GETLEDS1
+2018-05-22 11:04:18: LED1 is 1
+2018-05-22 11:04:34: CLEARLEDS
+2018-05-22 11:07:22: PEP hazi feladat FreeRTOS - CLI
+2018-05-22 11:07:22: Seres Zsofia, Sebok Bence
+2018-05-22 11:07:22: List of commands:
+2018-05-22 11:07:22: COMMANDS: listing available commands.
+2018-05-22 11:07:22: HELP: listing available commands.
+2018-05-22 11:07:22: SETLED0: setting LED0
+2018-05-22 11:07:22: SETLED1: setting LED1
+2018-05-22 11:07:22: SETLEDS: setting LED0 and LED1
+2018-05-22 11:07:22: GETLED0: getting the value of LED0
+2018-05-22 11:07:22: GETLED1: getting the value of LED1
+2018-05-22 11:07:22: CLEARLED0: clearing LED0
+2018-05-22 11:07:22: CLEARLED1: clearing LED1
+2018-05-22 11:07:22: CLEARLEDS: clearing all the LEDS
+2018-05-22 11:07:22: TEXT <scrolling text: scrolling <scrolling text on LCD every seconds
+2018-05-22 11:07:26: SETLED1
+2018-05-22 11:07:29: GETLED1
+2018-05-22 11:07:29: LED1 is 1
+2018-05-22 11:07:32: CLEARLED1
+2018-05-22 11:07:34: GETLED1
+2018-05-22 11:07:34: LED1 is 0
