@@ -200,7 +200,7 @@ void logDateTime(FILE * fd)
 
 void welcomeText()
 {
-    printf("PEP hazi feladat\n");
+	printf("PEP hazi feladat\n");
 	printf("Seres Zsofia, Sebok Bence\n");
 	printf("Baud rate: 115200 bit/s\n");
 	printf("UART frame: 8N1\n");
